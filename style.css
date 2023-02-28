@@ -20,6 +20,8 @@ body {
     font-weight: bolder;
     font-size: 2.5rem;
     padding-top: 2rem;
+    background-color: #e60e0e;
+    color:whitesmoke;
   }
   
   #buttons-div {
@@ -29,14 +31,14 @@ body {
   }
   
   button {
-    background-color: rgb(219, 85, 174);
+    background-color: rgb(27, 135, 207);
     text-align: center;
     font-size: 4rem;
     padding: 1.5rem;
   }
   
   #rockBtn {
-    background-color: #ff4d4d;
+    background-color: #e60e0e;
   }
   
   #paperBtn {
